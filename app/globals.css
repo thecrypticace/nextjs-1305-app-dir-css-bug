@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*
+  Edit this comment to force a rebuild and cache bust for HMR.
+  Update #: 2
+*/
